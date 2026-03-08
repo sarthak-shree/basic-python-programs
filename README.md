@@ -8,7 +8,7 @@ This repository contains my first Python programs while learning Python.
 This program asks the user for their first and last name and prints a welcome greeting.
 
 Example:
-Enter your first name: sarthak
+Enter your first name: sarthak   
 Enter your last name: shree  
 
 Output:
